@@ -1,0 +1,32 @@
+# Environment / secrets
+.env
+*.env
+
+# Bot database (generated at runtime, not part of source code)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Packaging / build artifacts
+build/
+dist/
+*.egg-info/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS clutter
+.DS_Store
+Thumbs.db
