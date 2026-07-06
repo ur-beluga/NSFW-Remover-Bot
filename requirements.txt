@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.23.0
+requests==2.32.3
+python-dotenv==1.0.1
+imageio-ffmpeg==0.5.1
